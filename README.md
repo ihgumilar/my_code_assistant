@@ -1,4 +1,4 @@
-# Code Assistant
+# My Code Assistant
 ## Description
 
 This repository is designed to integrate Large Language Model (LLM), specifically [PaLM API](https://developers.generativeai.google/) as a developer assistant, into your coding development process. It can serve various functions such as generating code, fixing code, creating documentation for your code, and explaning complex codes. The library is designed to be easy to use so that developers can keep their codes locally without having to copy & paste their private code to public such as ChatGPT. In a nutshell, you bring LLM into your favourite IDE or local computer while keeping your code with you. Although this code is written in python, but it can be used as your assistant for programming in many languages.
