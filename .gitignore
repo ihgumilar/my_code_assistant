@@ -160,4 +160,4 @@ cython_debug/
 #.idea/
 
 # Make config_api.py is not pushed to github
-config_api.py
+/my-code-assistant/config_api.py
