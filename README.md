@@ -1,3 +1,5 @@
+![My Image](hippo.jpg)
+
 # My Code Assistant
 ## Description
 
