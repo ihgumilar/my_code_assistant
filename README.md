@@ -53,6 +53,10 @@ print(odd_numbers)
 # The `print()` function prints the list of odd numbers.
 ```
 
+## Contact
+If you have any questions or would like to collaborate for anything related to AI or LLM, feel free to reach me at
+ihshan.jaka@ambit.ai or [my website](https://www.igumilar.com/).
+
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 This repository is licensed under the [MIT License](https://opensource.org/licenses/MIT).
