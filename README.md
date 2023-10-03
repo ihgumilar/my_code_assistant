@@ -22,7 +22,7 @@ The following example shows how to use the library to generate code to create a 
 ### 1. Import MyCodeAssistant
 **NOTE** : mind the path of the downloaded folder of this repo
 ```
-Import MyCodeAssistant from code_assistant
+from code_assistant import MyCodeAssistant
 ```
 ## (Example 1)
 ### 2.1 Set up the prompts and Run 
